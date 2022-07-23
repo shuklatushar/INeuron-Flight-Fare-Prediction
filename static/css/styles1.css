@@ -73,7 +73,9 @@ body{
    width: auto;
 }
 
-
+.git1 .git2 .linked1 .linked2{
+    cursor: pointer;
+}
 
 /* Vedant Section */
 
@@ -123,6 +125,7 @@ body{
     font-size: 15px;
     margin: 5px;
     border-radius: 5px;
+    /* cursor: pointer; */
 }
 
 
